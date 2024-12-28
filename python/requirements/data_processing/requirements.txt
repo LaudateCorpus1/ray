@@ -1,6 +1,6 @@
 dask[complete]==2021.03.0; python_version < '3.7'
 dask[complete]==2022.12.1; python_version >= '3.7'
-aioboto3==10.2.0
+aioboto3==13.3.0
 flask_cors
 moto[s3]==3.1.16
 s3fs
